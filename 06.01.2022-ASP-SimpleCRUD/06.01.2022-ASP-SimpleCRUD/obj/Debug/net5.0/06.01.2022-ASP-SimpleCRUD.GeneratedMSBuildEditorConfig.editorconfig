@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = _06._01._2022_ASP_SimpleCRUD
+build_property.ProjectDir = C:\Users\tu201806256\source\repos\06.01.2022-ASP-SimpleCRUD\06.01.2022-ASP-SimpleCRUD\
